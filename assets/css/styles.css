@@ -9,7 +9,7 @@ body {
 }
 header {
     background-image: url(../imag/banner-principal.jpg);
-    width: 1000px;
+    width: 1200px;
     height: 250px;
     text-align: center;
     background-position: center;
@@ -53,5 +53,5 @@ footer {
     height: 25px;
     font-size: 90%;
     line-height: 10px;
-    width: 1000px;
+    width: 1250px;
 }
